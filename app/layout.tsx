@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     images: ["/assets/og-image.svg"],
   },
   icons: {
-    icon: "/assets/avatar.svg",
+    icon: "/assets/favicon.svg",
   },
 };
 

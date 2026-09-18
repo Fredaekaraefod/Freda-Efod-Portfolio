@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background -->
+  <rect width="120" height="120" rx="24" fill="#121212" />
+  
+  <!-- Text Monogram -->
+  <text 
+    x="45" 
+    y="70" 
+    font-family="Georgia, 'Times New Roman', serif" 
+    font-size="64" 
+    fill="#ffffff" 
+    text-anchor="middle"
+  >F</text>
+  <text 
+    x="75" 
+    y="80" 
+    font-family="Georgia, 'Times New Roman', serif" 
+    font-size="64" 
+    fill="#ffffff" 
+    text-anchor="middle"
+  >E</text>
+</svg>
