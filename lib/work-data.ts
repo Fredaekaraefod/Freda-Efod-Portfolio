@@ -599,7 +599,7 @@ export const allProjects: Project[] = [
     tag: "Talking Head",
     ratio: "4/5",
     category: "Talking Head",
-    featured: false
+    featured: true
   },
   {
     id: "th-2",
@@ -609,7 +609,7 @@ export const allProjects: Project[] = [
     tag: "Talking Head",
     ratio: "4/5",
     category: "Talking Head",
-    featured: false
+    featured: true
   },
   {
     id: "th-1",
