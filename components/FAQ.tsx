@@ -12,27 +12,27 @@ const faqs: FAQItem[] = [
   {
     question: "What kind of editing do you do?",
     answer:
-      "Primarily short-form reels, TikToks, and Instagram videos, along with brand promos, product spotlights, and narrative mini-documentaries. I handle rough assembly, sound design, color balancing, and motion graphics.",
+      "I specialize in Short-Form edits (Reels, TikToks), Talking Head & Vlog edits, Long-Form YouTube edits, and authentic UGC Video Creation for brands and creators.",
   },
   {
     question: "What is your typical turnaround time?",
     answer:
-      "For short-form edits (under 60 seconds), standard turnaround is 48 to 72 hours for the first cut. Larger projects and brand campaigns depend on footage volume, but timelines are agreed upon before kicking off.",
+      "Turnaround depends on the scope of the project and footage volume. I focus on sharp pacing and efficient delivery, and exact timelines are always agreed upon before kicking off.",
   },
   {
     question: "Are you open for freelance/collab work right now?",
     answer:
-      "Yes, I am currently accepting select freelance projects, retainer editing for creators, and creative collaborations. Check the status badge at the top or drop me a line below.",
+      "Yes, I am currently accepting select freelance projects, retainer editing for creators, and creative collaborations. Drop me an email to discuss your project.",
   },
   {
     question: "What software and tools do you use?",
     answer:
-      "My primary NLE is Adobe Premiere Pro paired with DaVinci Resolve for color grading. I use After Effects for kinetic typography and motion accents, plus Adobe Audition for clean audio sweetening.",
+      "My core editing tools are Premiere Pro and CapCut, paired with AI tools like HeyGen, ElevenLabs, ChatGPT, Claude, and Gemini to elevate workflows, all organized through Google Workspace.",
   },
   {
     question: "How do we start working together?",
     answer:
-      "Send me a message via the form below or email me directly. Include a brief overview of your footage, target delivery date, and any reference styles or links. I'll get back to you with availability and a proposal.",
+      "Send me an email directly. Include a brief overview of your footage, target delivery date, and any reference styles or links. I reply within a day with next steps.",
   },
 ];
 
