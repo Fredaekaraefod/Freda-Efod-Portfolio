@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1e24"/>
+      <stop offset="100%" stop-color="#121214"/>
+    </linearGradient>
+    <linearGradient id="skinGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f3d5be"/>
+      <stop offset="100%" stop-color="#d8ab8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="320" rx="28" fill="url(#bgGrad)"/>
+  <circle cx="160" cy="120" r="54" fill="url(#skinGrad)"/>
+  <!-- Hair silhouette -->
+  <path d="M102,128 C96,80 120,50 160,50 C200,50 224,80 218,128 C210,105 198,85 160,85 C122,85 110,105 102,128 Z" fill="#111113"/>
+  <!-- Torso silhouette -->
+  <path d="M80,270 C80,205 115,190 160,190 C205,190 240,205 240,270 Z" fill="#2d2d34"/>
+  <!-- Minimalist camera/lens badge accent -->
+  <circle cx="215" cy="215" r="22" fill="#e50914" opacity="0.9"/>
+  <circle cx="215" cy="215" r="16" fill="#111113"/>
+  <circle cx="215" cy="215" r="8" fill="#ffffff" opacity="0.4"/>
+</svg>

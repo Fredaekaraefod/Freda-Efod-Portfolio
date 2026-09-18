@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0f0f11"/>
+  <rect x="60" y="60" width="1080" height="510" rx="16" fill="none" stroke="#26262b" stroke-width="2"/>
+  
+  <!-- Status badge -->
+  <rect x="100" y="120" width="260" height="36" rx="18" fill="#1b1b20" stroke="#33333d" stroke-width="1"/>
+  <circle cx="120" cy="138" r="5" fill="#22c55e"/>
+  <text x="135" y="143" fill="#a1a1aa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="500">Available for freelance</text>
+
+  <!-- Big Editorial Type -->
+  <text x="100" y="240" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="76" font-weight="700" letter-spacing="-2">Freda.</text>
+  <text x="100" y="325" fill="#e4e4e7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="400" letter-spacing="-1">I edit video.</text>
+  <text x="100" y="380" fill="#71717a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="400">Short-form, brand stories, rhythm &amp; sound design.</text>
+
+  <!-- Footer Info -->
+  <line x1="100" y1="460" x2="1100" y2="460" stroke="#26262b" stroke-width="1"/>
+  <text x="100" y="505" fill="#a1a1aa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20">portfolio.freda.video</text>
+  <text x="1100" y="505" text-anchor="end" fill="#71717a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18">Watch Selected Work →</text>
+</svg>

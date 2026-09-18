@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- Dual Palettes (Curated, not merely inverted) --- */
+:root {
+  /* LIGHT PALETTE */
+  --bg: #fafaf9;
+  --bg-subtle: #f4f4f2;
+  --card-bg: #ffffff;
+  --text-main: #141416;
+  --text-muted: #686873;
+  --text-subtle: #92929e;
+  --border-color: #e5e5e3;
+  --border-focus: #141416;
+  --btn-bg: #141416;
+  --btn-text: #ffffff;
+  --btn-hover-bg: #2a2a2f;
+  --pill-bg: #f0f0ee;
+  --pill-text: #374151;
+  --status-dot: #16a34a;
+}
+
+[data-theme="dark"] {
+  /* DARK PALETTE */
+  --bg: #0e0e11;
+  --bg-subtle: #16161a;
+  --card-bg: #141418;
+  --text-main: #ededf0;
+  --text-muted: #9494a0;
+  --text-subtle: #636370;
+  --border-color: #24242b;
+  --border-focus: #ededf0;
+  --btn-bg: #ededf0;
+  --btn-text: #0e0e11;
+  --btn-hover-bg: #ffffff;
+  --pill-bg: #1c1c23;
+  --pill-text: #cbd5e1;
+  --status-dot: #22c55e;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text-main);
+  min-height: 100vh;
+  transition: background-color 0.25s cubic-bezier(0.16, 1, 0.3, 1), color 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Instagram embed responsive wrapper overrides */
+.instagram-media {
+  background: transparent !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  margin: 0 !important;
+  min-width: 100% !important;
+  padding: 0 !important;
+  width: 100% !important;
+}
